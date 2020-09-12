@@ -1,3 +1,7 @@
+## Changes
+
+* Toggle Pock and System Touch Bar with Double **option** key
+
 <p align="center"><img src="https://pock.dev/assets/img/brand/web-icon-black.png" width="96"/></p>
 <p align="center">Display macOS Dock in Touch Bar.</p>
 <p align="center">It's free and open source, and it also brings some minimalistic widgets with it!
@@ -12,8 +16,8 @@
 If you are on macOS Catalina (10.15), please click [here](https://pock.dev/docs/catalina.html) and read carefully the suggestions to have a flawless experience.
 
 ## Why can't I open an issue/pull request?
-I’m currently migrating all default widgets to make **Pock** independent from them. 
-At the end of the process, each widget will have its _dedicated repo_, where you'll be able to open new PRs. 
+I’m currently migrating all default widgets to make **Pock** independent from them.
+At the end of the process, each widget will have its _dedicated repo_, where you'll be able to open new PRs.
 I hope to publish the new sources soon alongside **PockKit**.
 
 The PRs that are currently opened will be merged manually in the dedicated widget repository
